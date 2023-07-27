@@ -6,7 +6,7 @@
 
 }
 .hero__section {
-    background: url(/images/heroSectionBackground.png);
+    background: url(images/heroSectionBackground.png);
     background-color: cover;
     background-position: center;
     color: white;
@@ -428,6 +428,8 @@
     }
 
 }
+
+
 @media only screen and (max-width:1300px) {
     .semiContainer .left ,
     .get__the_app_content{
@@ -476,3 +478,4 @@
     }
     
 }
+
